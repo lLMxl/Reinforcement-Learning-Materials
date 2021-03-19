@@ -53,3 +53,19 @@
 )]
 - [English Blog] 35 Lenient Multi-Agent Deep Reinforcement Learning[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/cooperation/35%20Lenient%20Multi-Agent%20Deep%20Reinforcement%20Learning.pdf
 )]
+
+### multi agent survey
+- [English Blog] 1多智能体深度强化学习研究综述_孙彧[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/1%20%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E6%B7%B1%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0_%E5%AD%99%E5%BD%A7.pdf
+)]
+- [English Blog] 10.1.1.334.8834[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/10.1.1.334.8834.pdf
+)]
+- [English Blog] 2 MARL a critical survey[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/2%20MARL%20a%20critical%20survey.pdf
+)]
+- [English Blog] 3 MA协调共识问题[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/3%20MA%E5%8D%8F%E8%B0%83%E5%85%B1%E8%AF%86%E9%97%AE%E9%A2%98.pdf
+)]
+- [English Blog] 4 MAS a survey[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/4%20MAS%20a%20survey.pdf
+)]
+- [English Blog] Rădulescu2019_Article_Multi-objectiveMulti-agentDeci[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/R%C4%83dulescu2019_Article_Multi-objectiveMulti-agentDeci.pdf
+)]
+- [English Blog] multi-agent survey[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/multi-agent%20survey.docx
+)]
