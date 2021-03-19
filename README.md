@@ -30,7 +30,7 @@
 - [English Blog] 64 Learning with Opponent-Learning Awareness[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/agents%20modeling%20agents/64%20Learning%20with%20Opponent-Learning%20Awareness.pdf
 )]
 
-###cooperation
+### cooperation
 - [English Blog] 162 RIAL DIAL[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/cooperation/162%20RIAL%20DIAL.pdf
 )]
 - [English Blog] 165 IMPROVING COORDINATION IN SMALL-SCALE MULTI-AGENT[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/cooperation/165%20IMPROVING%20COORDINATION%20IN%20SMALL-SCALE%20MULTI-AGENT.pdf
