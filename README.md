@@ -69,3 +69,18 @@
 )]
 - [English Blog] multi-agent survey[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/multi-agent%20survey.docx
 )]
+#### CSDN
+- [English Blog] 1A Survey on Transfer Learning for Multiagent[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/CSDN/1A%20Survey%20on%20Transfer%20Learning%20for%20Multiagent.pdf
+)]
+- [English Blog] 3 部分可观测多目标MARL[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/CSDN/3%20%E9%83%A8%E5%88%86%E5%8F%AF%E8%A7%82%E6%B5%8B%E5%A4%9A%E7%9B%AE%E6%A0%87MARL.pdf
+)]
+- [English Blog] 4 部分可观测MARL[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/CSDN/4%20%E9%83%A8%E5%88%86%E5%8F%AF%E8%A7%82%E6%B5%8BMARL.pdf
+)]
+- [English Blog] Autonomously Reusing Knowledge in Multiagent Reinforcement Learning[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/CSDN/Autonomously%20Reusing%20Knowledge%20in%20Multiagent%20Reinforcement%20Learning.pdf
+)]
+- [English Blog] Multi Agent Reinforcement Learning[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/CSDN/Multi%20Agent%20Reinforcement%20Learning.pdf
+)]
+- [English Blog] actor_attention_critic_for_multi_agent_reinforcement_learning[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/CSDN/actor_attention_critic_for_multi_agent_reinforcement_learning.pdf
+)]
+- [English Blog] 多智能体强化学习综述_杜威[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/Multi%20Agent/multi%20agent%20survey/CSDN/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%BB%BC%E8%BF%B0_%E6%9D%9C%E5%A8%81.pdf
+)]
