@@ -107,3 +107,50 @@
 )]
 - IEEE MRS 23可以当参考文献[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/transaction%E9%97%AE%E9%A2%98%E5%AE%9A%E4%B9%89%E8%B0%83%E7%A0%94/IEEE%20MRS%2023%E5%8F%AF%E4%BB%A5%E5%BD%93%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE.pdf
 )]
+
+
+## 论文
+- 复杂环境 A Survey[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/(11.24%E5%AE%8C)%E5%A4%8D%E6%9D%82%E7%8E%AF%E5%A2%83%20A%20Survey.pdf
+)]
+- 基于强化学习的机器人路径规划算法_张福海[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/(9.11%E5%AE%8C)%E5%9F%BA%E4%BA%8E%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95_%E5%BC%A0%E7%A6%8F%E6%B5%B7.pdf
+)]
+- 移动机器人路径规划技术综述[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/(9.4%E5%AE%8C)%E7%A7%BB%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0.pdf
+)]
+- DRL女老师通信-ATOC[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/1%20DRL%E5%A5%B3%E8%80%81%E5%B8%88%E9%80%9A%E4%BF%A1-ATOC.pdf
+)]
+- 平均场Muti-Agent建模[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/1%20%E5%B9%B3%E5%9D%87%E5%9C%BAMuti-Agent%E5%BB%BA%E6%A8%A1.docx
+)]
+- 知识重用[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/1%E7%9F%A5%E8%AF%86%E9%87%8D%E7%94%A8.pdf
+)]
+- DRL女老师通信-DRIL RIAL[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/2%20DRL%E5%A5%B3%E8%80%81%E5%B8%88%E9%80%9A%E4%BF%A1-DRIL%20RIAL.pdf
+)]
+- MARL a critical survey[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/2%20%E7%9F%A5%E8%AF%86%E9%87%8D%E7%94%A8%202018%20IJCAI.pdf
+)]
+- 知识重用 2018 IJCAI[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/(11.24%E5%AE%8C)%E5%A4%8D%E6%9D%82%E7%8E%AF%E5%A2%83%20A%20Survey.pdf
+)]
+- Adaptive Sparse Communication Graph[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/Adaptive%20Sparse%20Communication%20Graph.pdf
+)]
+- actor_attention_critic_for_multi_agent_reinforcement_learning[[Link]( https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/actor_attention_critic_for_multi_agent_reinforcement_learning.pdf
+)]
+- rule-based shallow-trial[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/rule-based%20shallow-trial.pdf
+)]
+- science China[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/science%20China.pdf
+)]
+- ~$平均场Muti-Agent建模[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/~%24%E5%B9%B3%E5%9D%87%E5%9C%BAMuti-Agent%E5%BB%BA%E6%A8%A1.docx
+)]
+- ~$机器人路径规划技术综述[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/~%24%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0.docx
+)]
+- 启发式方法在机器人路径规划优化中的应用综述_盛亮[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/%E5%90%AF%E5%8F%91%E5%BC%8F%E6%96%B9%E6%B3%95%E5%9C%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E4%BC%98%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E7%BB%BC%E8%BF%B0_%E7%9B%9B%E4%BA%AE.pdf
+)]
+- 平均场 多智体定义[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/%E5%B9%B3%E5%9D%87%E5%9C%BA%20%E5%A4%9A%E6%99%BA%E4%BD%93%E5%AE%9A%E4%B9%89.docx
+)]
+- 机器人路径规划方法综述[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E6%96%B9%E6%B3%95%E7%BB%BC%E8%BF%B0.pdf
+)]
+- 璐璐DRL MARL[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/%E7%92%90%E7%92%90DRL%20MARL.pdf
+)]
+- 移动机器人路径规划中的图方法应用综述[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/%E7%A7%BB%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E4%B8%AD%E7%9A%84%E5%9B%BE%E6%96%B9%E6%B3%95%E5%BA%94%E7%94%A8%E7%BB%BC%E8%BF%B0.pdf
+)]
+- 移动机器人路径规划技术综述[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/%E7%A7%BB%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0.docx
+)]
+- 自主移动机器人局部路径规划综述[[Link](https://github.com/lLMxl/Reinforcement-Learning-Materials/blob/main/%E8%AE%BA%E6%96%87/%E8%87%AA%E4%B8%BB%E7%A7%BB%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%80%E9%83%A8%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E7%BB%BC%E8%BF%B0.pdf
+)]
